@@ -8,33 +8,33 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 **Languages**
 <p align="left">
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="R" title="R" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Java" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Python" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="R" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="PostgreSQL" />
 </p>
 
 **Frameworks & Backend**
 <p align="left">
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Vite" title="Vite" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Express" title="Express" style="filter: invert(1);" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Vite" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Express" />
 </p>
 
 **Infrastructure & Tools**
 <p align="left">
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Debian" title="Debian" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="PowerShell" title="PowerShell" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Anaconda" title="Anaconda" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="PyTorch" title="PyTorch" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Debian" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Bash" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="PowerShell" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Anaconda" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="PyTorch" />
   <br /><br />
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Postman" title="Postman" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="Nginx" title="Nginx" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="38" height="38" alt="WordPress" title="WordPress" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Git" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Postman" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Nginx" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="38" height="38" alt="WordPress" />
 </p>
 
 
