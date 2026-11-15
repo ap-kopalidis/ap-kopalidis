@@ -36,4 +36,12 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 ---
 
 ### Connect
-[![Instagram](https://shields.io)](https://www.instagram.com/apostolis.kpl/)
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://www.instagram.com/apostolis.kpl/">
+    <img src="https://skillicons.dev" alt="Instagram" />
+  </a>
+</p>
+
