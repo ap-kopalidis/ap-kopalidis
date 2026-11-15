@@ -29,19 +29,19 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ### Beyond Code
 
-- ☕ Fueled by memes and caffeine.
-- 🌍 Advocate for open-source ecosystems, digital sustainability, and pragmatic, human-centric tech.
-- 🐧 I enjoy walks, reading and binge watching my favorite TV shows
+```yaml
+Fueled by:      "Memes & coffee ☕"
+About me:    "Open-source ecosystems, digital sustainability & pragmatic tech"
+Interests:   "City walks, reading & binge-watching favorite TV shows"
+```
 
 ---
-
-### Connect
 
 ### 📫 Connect
 
 <p align="left">
   <a href="https://www.instagram.com/apostolis.kpl/">
-    <img src="https://skillicons.dev" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
