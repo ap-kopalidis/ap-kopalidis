@@ -6,14 +6,37 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ### Tech Stack
 
-**Languages**  
-[![Languages](https://skillicons.dev/icons?i=java,py,r,postgres)](https://skillicons.dev)
+**Languages**
+<p align="left">
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Java" title="Java" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="R" title="R" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
-**Frameworks & Backend**  
-[![Frameworks](https://skillicons.dev/icons?i=spring,vite,express)](https://skillicons.dev)
+**Frameworks & Backend**
+<p align="left">
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Vite" title="Vite" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Express" title="Express" style="filter: invert(1);" />
+</p>
 
-**Infrastructure & Tools**  
-[![Tools](https://skillicons.dev/icons?i=debian,bash,powershell,anaconda,tensorflow,pytorch,git,docker,postman,nginx,wordpress&perline=6)](https://skillicons.dev)
+**Infrastructure & Tools**
+<p align="left">
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Debian" title="Debian" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="PowerShell" title="PowerShell" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Anaconda" title="Anaconda" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="PyTorch" title="PyTorch" />
+  <br /><br />
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Postman" title="Postman" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="Nginx" title="Nginx" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="38" height="38" alt="WordPress" title="WordPress" />
+</p>
+
 
 ---
 
