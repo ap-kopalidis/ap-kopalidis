@@ -1,26 +1,25 @@
+<br />
+
 ### Hi, I'm Apostolis 👋
 
-Backend Software Engineer with a background in **Mathematics** and **Machine Learning**. I build reliable, data-driven APIs and backend services using **Java**, **Python**, and **Spring Boot**.
+> **Backend Software Engineer** with a background in **Mathematics** and **Machine Learning**.  
+> Based in Europe — building reliable, data-driven APIs and backend services with **Java**, **Python**, and **Spring Boot**.
+
+`Coding` ◾ `Math` ◾ `Data` ◾ `Aesthetics`
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-**Languages**
-
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,r,cpp,js,html&perline=6)
-
-**Frameworks & Backend**
-
-![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgres,mariadb,vite,nginx&perline=6)
-
-**Infrastructure & Tools**
-
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,docker,podman,firefox,edge&perline=6)
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` · `Python` · `SQL` · `R` · `C++` · `JavaScript` · `HTML` |
+| **Frameworks & Data** | `Spring Boot` · `FastAPI` · `PostgreSQL` · `MariaDB` · `Vite` · `Nginx` |
+| **Systems & Tooling** | `Linux` · `Debian` · `Docker` · `Podman` · `Git` · `Vim` · `Powershell` |
 
 ---
 
-### Background & Education
+### 🎓 Background & Education
 
 | Role / Degree | Institution | Year | Focus |
 | :--- | :--- | :--- | :--- |
@@ -30,24 +29,17 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ---
 
-### Beyond Code
+### ☕ Beyond Code
 
 ```yaml
-Fueled by:   "Memes & coffee ☕"
-About me:    "Open-source ecosystems, digital sustainability & pragmatic tech"
-Interests:   "City walks, reading & binge-watching favorite TV shows"
+location:    "Based in Europe 🌍"
+fueled by:   "Memes & coffee ☕"
+philosophy:  "Open-source ecosystems, digital sustainability & pragmatic tech"
+offline:     "City walks, capturing moments 📷, reading & binge watchingfavorite TV shows"
 ```
 
 ---
 
 ### 📫 Connect
 
-<p align="left">
-  <a href="https://www.instagram.com/apostolis.kpl/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://ap-kopalidis.carrd.co/">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Personal Page" />
-  </a>
-</p>
-
+🌐 **[Personal Page](https://ap-kopalidis.carrd.co/)** &nbsp;·&nbsp; 📷 **[Instagram](https://www.instagram.com/apostolis.kpl/)**
