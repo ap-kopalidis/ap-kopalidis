@@ -4,7 +4,7 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ---
 
-#### Tech Stack
+### Tech Stack
 
 **Languages**  
 [![Languages](https://skillicons.dev/icons?i=java,py,r,cpp,postgres,js,html,css&perline=4)](https://skillicons.dev)
@@ -13,11 +13,11 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 [![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,vite,express)](https://skillicons.dev)
 
 **Infrastructure & Tools**  
-[![Tools](https://skillicons.dev/icons?i=debian,docker,bash,powershell,git,anaconda,tensorflow,pytorch&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=debian,docker,bash,powershell,git,anaconda,tensorflow,pytorch&perline=4)](https://skillicons.dev)
 
 ---
 
-#### Background & Education
+### Background & Education
 
 - **Backend Software Engineer** — Building production backend systems, REST APIs, and containerized microservices.
 - **MSc in Data Science & Machine Learning** — *Hellenic Open University (2025)*  
@@ -27,7 +27,7 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ---
 
-#### Beyond Code
+### Beyond Code
 
 - ☕ Fueled by memes and caffeine.
 - 🌍 Advocate for open-source ecosystems, digital sustainability, and pragmatic, human-centric tech.
@@ -35,6 +35,5 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ---
 
-#### Connect
-
+### Connect
 [![Instagram](https://shields.io)](https://www.instagram.com/apostolis.kpl/)
