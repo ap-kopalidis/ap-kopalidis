@@ -7,13 +7,13 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 ### Tech Stack
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=java,py,r,cpp,postgres,js,html,css&perline=4)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,py,r,cpp,postgres,js,html,css&perline=8)](https://skillicons.dev)
 
 **Frameworks & Backend**  
 [![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,vite,express)](https://skillicons.dev)
 
 **Infrastructure & Tools**  
-[![Tools](https://skillicons.dev/icons?i=debian,docker,bash,powershell,git,anaconda,tensorflow,pytorch&perline=4)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=debian,docker,bash,powershell,git,anaconda,tensorflow,pytorch&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -30,7 +30,7 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 ### Beyond Code
 
 ```yaml
-Fueled by:      "Memes & coffee ☕"
+Fueled by:   "Memes & coffee ☕"
 About me:    "Open-source ecosystems, digital sustainability & pragmatic tech"
 Interests:   "City walks, reading & binge-watching favorite TV shows"
 ```
@@ -42,6 +42,9 @@ Interests:   "City walks, reading & binge-watching favorite TV shows"
 <p align="left">
   <a href="https://www.instagram.com/apostolis.kpl/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://ap-kopalidis.carrd.co/">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Personal Page" />
   </a>
 </p>
 
