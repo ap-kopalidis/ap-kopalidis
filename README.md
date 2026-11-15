@@ -10,10 +10,10 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,r,cpp,js,html&perline=6)
 
 **Frameworks & Backend**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgres,mariadb,vite,nginx&perline=6)
+![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgres,mariadb,vite,nginx&perline=6)
 
 **Infrastructure & Tools**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,docker,podman,firefox,edge&perline=6)
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,docker,podman,firefox,edge&perline=6)
 
 ---
 
