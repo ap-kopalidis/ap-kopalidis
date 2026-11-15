@@ -19,11 +19,11 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 
 ### Background & Education
 
-- **Backend Software Engineer** — Building production backend systems, REST APIs, and containerized microservices.
-- **MSc in Data Science & Machine Learning** — *Hellenic Open University (2025)*  
-  Focused on statistical modeling, machine learning pipelines, neural networks, and applied Python engineering.
-- **BSc in Mathematics** — *National and Kapodistrian University of Athens (NKUA / EKPA) (2020)*  
-  Strong foundation in linear algebra, probability, optimization, and analytical problem-solving.
+| Role / Degree | Institution | Year | Focus |
+| :--- | :--- | :--- | :--- |
+| **Backend Software Engineer** | *Industry* | `Present` | Production REST APIs, backend architecture & containerized microservices |
+| **MSc in Data Science & ML** | *Hellenic Open University* | `2025` | Statistical modeling, neural networks & applied Python engineering |
+| **BSc in Mathematics** | *NKUA / EKPA* | `2020` | Linear algebra, probability, optimization & analytical problem-solving |
 
 ---
 
