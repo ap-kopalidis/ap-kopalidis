@@ -7,13 +7,13 @@ Backend Software Engineer with a background in **Mathematics** and **Machine Lea
 #### Tech Stack
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=java,py,r,sql,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,py,r,cpp,postgres,js,html,css&perline=4)](https://skillicons.dev)
 
 **Frameworks & Backend**  
-[![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,vite)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,vite,express)](https://skillicons.dev)
 
 **Infrastructure & Tools**  
-[![Tools](https://skillicons.dev/icons?i=debian,firefox,docker,bash,powershell,git,tensorflow,pytorch)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=debian,docker,bash,powershell,git,anaconda,tensorflow,pytorch&perline=3)](https://skillicons.dev)
 
 ---
 
